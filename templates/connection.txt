@@ -1,0 +1,8 @@
+Hi {name},
+
+I noticed your work at {company} as {headline} and was particularly impressed by your experience in {top_skill}. I'd love to connect and learn more about your journey in {industry}.
+
+Would you be open to connecting?
+
+Best regards,
+[Your Name]

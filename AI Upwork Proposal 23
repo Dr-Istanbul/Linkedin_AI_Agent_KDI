@@ -1,0 +1,41 @@
+https://www.upwork.com/jobs/~021938491355041015205
+-------------------------------------------------
+
+AI Agent Development for LinkedIn
+
+-------------------------------------------------
+AI Proposal
+-------------------------------------------------
+
+Hi,
+
+This is a great use case for AI agents — turning LinkedIn outreach into something smart, personal, and scalable.
+
+I’ve worked on similar automation pipelines using LinkedIn search URLs, LLMs (OpenAI, Claude), and profile parsing. I can help build a clean flow: upload search URL → scan profiles → decide action (connect/message) → craft AI-generated text using your global templates and prompts.
+
+Once a connection is accepted, the agent can detect it and auto-respond with a personalized thank-you — tuned via LLM and your provided tone/message.
+
+I’ll handle:
+
+API setup (OpenAI or preferred LLM),
+
+Profile scraping (compliant tools or ethical automation),
+
+Prompt engineering for each step (connect, message, follow-up),
+
+And keep the system modular, so you can update templates easily.
+
+Happy to jump on a call to walk through your flow and show examples of related AI agents I’ve built.
+
+Looking forward to collaborating!
+
+
+Muhammad Nisar Ali.
+
+
+ACTION PLAN:
+
+Here is the Claude link: https://claude.ai/public/artifacts/6b0f8fe3-0f5b-472c-89d3-bccad7a949f9
+
+
+

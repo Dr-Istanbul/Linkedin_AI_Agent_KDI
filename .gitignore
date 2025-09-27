@@ -1,0 +1,48 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+pip-log.txt
+
+# Environment variables & sensitive files
+linkedin.env
+config_old.py
+*.env
+.env.local
+.env.production
+
+# Logs
+*.log
+geckodriver.log
+logs/
+*.log.*
+
+# Selenium/Web drivers
+geckodriver*
+chromedriver*
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
